@@ -1,2 +1,0 @@
-# webpersonal
-Proyecto CV
